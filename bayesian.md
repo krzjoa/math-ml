@@ -5,4 +5,5 @@
 
 
 ## Software
-* [ZhuSuan](http://zhusuan.readthedocs.io/en/latest/)
+* [ZhuSuan - Bayesian Deep Learning](http://zhusuan.readthedocs.io/en/latest/)
+* [pomegranate - probabilistic and graphical models for Python](https://github.com/jmschrei/pomegranate)
