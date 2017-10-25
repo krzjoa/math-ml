@@ -6,6 +6,7 @@
 
 ## Blog posts
 * [Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
+* [Bayesian Program Synthesis](https://gamalon.com/technology/)
 
 ## Software
 * [ZhuSuan - Bayesian Deep Learning](http://zhusuan.readthedocs.io/en/latest/)
