@@ -8,6 +8,7 @@
 * [Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
 * [Bayesian Program Synthesis](https://gamalon.com/technology/)
 * [Are brains Bayesian?](https://blogs.scientificamerican.com/cross-check/are-brains-bayesian/)
+* [Bayesian DL](https://alexgkendall.com/computer_vision/bayesian_deep_learning_for_safe_ai/)
 
 ## Software
 * [ZhuSuan - Bayesian Deep Learning](http://zhusuan.readthedocs.io/en/latest/)
