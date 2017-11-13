@@ -10,4 +10,4 @@ Best math/machine learning resources
 5. [Hierarchical Temporary Memory](https://github.com/krzjoa/math-ml/blob/master/htm.md)
 6. [Automated Machine Learning](https://github.com/krzjoa/math-ml/blob/master/automl.md)
 7. [Algebra](https://github.com/krzjoa/math-ml/blob/master/algebra.md)
-8 .[Topological Data Analysis](https://github.com/krzjoa/math-ml/blob/master/tda.md)
+8. [Topological Data Analysis](https://github.com/krzjoa/math-ml/blob/master/tda.md)
