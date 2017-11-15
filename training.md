@@ -1,3 +1,5 @@
 * [NonProp](http://www-isl.stanford.edu/~widrow/papers/131.no_prop_neural_networks.pdf)
 * [Synthetic Gradients](https://arxiv.org/pdf/1703.00522.pdf)
 * [Synthetic Gradients - explanation](https://iamtrask.github.io/2017/03/21/synthetic-gradients/)
+* [No More Pesky Learning Rates](https://arxiv.org/pdf/1206.1106.pdf)
+* [YellowFin: An automatic tuner for momentum SGD](http://dawn.cs.stanford.edu/2017/07/05/yellowfin/)
