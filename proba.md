@@ -1,3 +1,7 @@
+### Courses
+
+* [Probability Theory and Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/)
+
 ## Papers
 
 * [Bayesian Deep Learning](https://github.com/robi56/awesome-bayesian-deep-learning#papers--thesis)
