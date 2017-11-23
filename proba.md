@@ -24,3 +24,4 @@
 * [pyMC3](http://docs.pymc.io/)
 * [GPflowOpt](http://gpflowopt.readthedocs.io/en/latest/?badge=latest)
 * [Stan](https://github.com/stan-dev/stan)
+* [gelato - Bayesian dessert for Lasagne](https://github.com/ferrine/gelato)
