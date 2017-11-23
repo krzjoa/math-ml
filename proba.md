@@ -13,6 +13,10 @@
 * [Bayesian Program Synthesis](https://gamalon.com/technology/)
 * [Are brains Bayesian?](https://blogs.scientificamerican.com/cross-check/are-brains-bayesian/)
 * [Bayesian DL](https://alexgkendall.com/computer_vision/bayesian_deep_learning_for_safe_ai/)
+* [Summary of NIPS 2016 (Bayesian Deep Learning)](http://blog.evjang.com/2017/01/nips2016.html)
+
+## Videos
+* [Machine Learning and Likelihood-Free Inference in Particle Physics](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Machine-Learning-and-Likelihood-Free-Inference-in-Particle-Physics)
 
 ## Software
 * [ZhuSuan - Bayesian Deep Learning](http://zhusuan.readthedocs.io/en/latest/)
