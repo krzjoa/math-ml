@@ -12,3 +12,4 @@ Best math/machine learning resources
 7. [Algebra](https://github.com/krzjoa/math-ml/blob/master/algebra.md)
 8. [Topological Data Analysis](https://github.com/krzjoa/math-ml/blob/master/tda.md)
 9. [Competitions](https://github.com/krzjoa/math-ml/blob/master/competitions.md)
+10. [Differentiation](https://github.com/krzjoa/math-ml/blob/master/diff.md)
