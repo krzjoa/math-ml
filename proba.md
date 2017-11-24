@@ -15,6 +15,13 @@
 * [Deep Learning Is Not Good Enough, 
 We Need Bayesian Deep Learning for Safe AI](https://alexgkendall.com/computer_vision/bayesian_deep_learning_for_safe_ai/)
 * [Summary of NIPS 2016 (Bayesian Deep Learning)](http://blog.evjang.com/2017/01/nips2016.html)
+* [The Best Of Both Worlds: Hierarchical Linear Regression in PyMC3](http://twiecki.github.io/blog/2014/03/17/bayesian-glms-3/)
+* [Neural Networks in PyMC3 estimated with Variational Inference](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
+* [Building a Bayesian deep learning classifier](https://towardsdatascience.com/building-a-bayesian-deep-learning-classifier-ece1845bc09)
+* [MNIST FOR ML BEGINNERS: THE BAYESIAN WAY](https://alpha-i.co/blog/MNIST-for-ML-beginners-The-Bayesian-Way.html)
+
+## Presentations
+* [Modern Deep Learning through Bayesian Eyes (Cambridge)](http://www.cs.ox.ac.uk/people/yarin.gal/website/PDFs/2015_UCL_Bayesian_Deep_Learning_talk.pdf)
 
 ## Videos
 * [Machine Learning and Likelihood-Free Inference in Particle Physics](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Machine-Learning-and-Likelihood-Free-Inference-in-Particle-Physics)
@@ -23,6 +30,7 @@ We Need Bayesian Deep Learning for Safe AI](https://alexgkendall.com/computer_vi
 * [ZhuSuan - Bayesian Deep Learning](http://zhusuan.readthedocs.io/en/latest/)
 * [pomegranate - probabilistic and graphical models for Python](https://github.com/jmschrei/pomegranate)
 * [pyMC3](http://docs.pymc.io/)
+* [Edward - A library for probabilistic modeling, inference, and criticism.](http://edwardlib.org/)
 * [GPflowOpt](http://gpflowopt.readthedocs.io/en/latest/?badge=latest)
 * [Stan](https://github.com/stan-dev/stan)
 * [gelato - Bayesian dessert for Lasagne](https://github.com/ferrine/gelato)
