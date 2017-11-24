@@ -31,6 +31,7 @@ We Need Bayesian Deep Learning for Safe AI](https://alexgkendall.com/computer_vi
 * [pomegranate - probabilistic and graphical models for Python](https://github.com/jmschrei/pomegranate)
 * [pyMC3 - Python package for Bayesian statistical modeling and Probabilistic Machine Learning](http://docs.pymc.io/)
 * [Edward - A library for probabilistic modeling, inference, and criticism.](http://edwardlib.org/)
+* [GPflow - Gaussian processes in TensorFlow](http://gpflow.readthedocs.io/en/latest/?badge=latest)
 * [GPflowOpt](http://gpflowopt.readthedocs.io/en/latest/?badge=latest)
 * [Stan](https://github.com/stan-dev/stan)
 * [gelato - Bayesian dessert for Lasagne](https://github.com/ferrine/gelato)
