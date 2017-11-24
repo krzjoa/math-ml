@@ -29,7 +29,7 @@ We Need Bayesian Deep Learning for Safe AI](https://alexgkendall.com/computer_vi
 ## Software
 * [ZhuSuan - Bayesian Deep Learning](http://zhusuan.readthedocs.io/en/latest/)
 * [pomegranate - probabilistic and graphical models for Python](https://github.com/jmschrei/pomegranate)
-* [pyMC3](http://docs.pymc.io/)
+* [pyMC3 - Python package for Bayesian statistical modeling and Probabilistic Machine Learning](http://docs.pymc.io/)
 * [Edward - A library for probabilistic modeling, inference, and criticism.](http://edwardlib.org/)
 * [GPflowOpt](http://gpflowopt.readthedocs.io/en/latest/?badge=latest)
 * [Stan](https://github.com/stan-dev/stan)
