@@ -14,6 +14,6 @@ Best math/machine learning resources
 9. [Neural Network Frameworks](https://github.com/krzjoa/math-ml/blob/master/nnsoft.md)
 
 
-## Math
+### Math
 1. [Algebra](https://github.com/krzjoa/math-ml/blob/master/algebra.md)
 2. [Differentiation](https://github.com/krzjoa/math-ml/blob/master/diff.md)
