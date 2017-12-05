@@ -12,6 +12,7 @@ Best math/machine learning resources
 7. [Topological Data Analysis](https://github.com/krzjoa/math-ml/blob/master/tda.md)
 8. [Competitions](https://github.com/krzjoa/math-ml/blob/master/competitions.md)
 9. [Neural Network Frameworks](https://github.com/krzjoa/math-ml/blob/master/nnsoft.md)
+10. [Complex values in Neural Networks](https://github.com/krzjoa/math-ml/blob/master/cmpx.md)
 
 
 ### Math
