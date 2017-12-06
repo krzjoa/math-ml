@@ -6,3 +6,7 @@ Convolutional Neural Networks](https://arxiv.org/pdf/1506.03767.pdf)
 * [Kernel Pooling for Convolutional Neural Networks](https://vision.cornell.edu/se3/wp-content/uploads/2017/04/cui2017cvpr.pdf)
 * [Towards Understanding the Invertibility of Convolutional Neural Networks](https://openreview.net/forum?id=B1mAJI9gl)
 * [Wavelet Pooling for Convolutional Neural Networks ](https://openreview.net/forum?id=rkhlb8lCZ)
+* [Deep Rotation Equivariant Network](https://arxiv.org/pdf/1705.08623.pdf)
+
+### Software
+* [Cyclic symmetry (Theano/Lasagne layers)](https://github.com/benanne/kaggle-ndsb)
