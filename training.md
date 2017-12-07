@@ -1,3 +1,4 @@
+### Papers
 * [NonProp](http://www-isl.stanford.edu/~widrow/papers/131.no_prop_neural_networks.pdf)
 * [Synthetic Gradients](https://arxiv.org/pdf/1703.00522.pdf)
 * [No More Pesky Learning Rates](https://arxiv.org/pdf/1206.1106.pdf)
