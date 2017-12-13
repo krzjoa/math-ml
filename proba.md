@@ -37,4 +37,7 @@ We Need Bayesian Deep Learning for Safe AI](https://alexgkendall.com/computer_vi
 * [GPflowOpt](http://gpflowopt.readthedocs.io/en/latest/?badge=latest)
 * [Stan](https://github.com/stan-dev/stan)
 * [gelato - Bayesian dessert for Lasagne](https://github.com/ferrine/gelato)
+
+## Implementations
 * [Dawid and Skene](https://github.com/dallascard/dawid_skene)
+* [Bayesian Poisson Tucker decomposition](https://github.com/aschein/bptd)
