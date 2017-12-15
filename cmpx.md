@@ -5,6 +5,7 @@ Gradient Descent and Random Search
 Algorithms ](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.226.7605&rep=rep1&type=pdf)
 * [On Complex Valued Convolutional Neural
 Networks](https://arxiv.org/pdf/1602.09046.pdf)
+* [Deep Quaternion Networks](https://arxiv.org/pdf/1712.04604v1.pdf)
 
 ### Blog posts
 * [Complex Valued Neural Networks - Experiments](http://makeyourownneuralnetwork.blogspot.com/2016/05/complex-valued-neural-networks.html)
