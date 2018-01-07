@@ -4,3 +4,4 @@
 
 ### SVM
 * https://courses.cs.washington.edu/courses/cse446/17wi/slides/kernelizedperceptron-SVM-annotated.pdf
+* https://github.com/markrazmandi/mlTheory
