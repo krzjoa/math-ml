@@ -2,6 +2,9 @@
 
 * [Probability Theory and Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/)
 
+### Tutorilas
+* [MNIST FOR ML BEGINNERS: THE BAYESIAN WAY](https://alpha-i.co/blog/MNIST-for-ML-beginners-The-Bayesian-Way.html) 
+
 ## Papers
 
 * [Bayesian Deep Learning](https://github.com/robi56/awesome-bayesian-deep-learning#papers--thesis)
