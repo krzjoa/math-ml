@@ -24,6 +24,7 @@ We Need Bayesian Deep Learning for Safe AI](https://alexgkendall.com/computer_vi
 * [Building a Bayesian deep learning classifier](https://towardsdatascience.com/building-a-bayesian-deep-learning-classifier-ece1845bc09)
 * [MNIST FOR ML BEGINNERS: THE BAYESIAN WAY](https://alpha-i.co/blog/MNIST-for-ML-beginners-The-Bayesian-Way.html)
 * [Using Bayesian Optimization for Reinforcement Learning](https://blog.sigopt.com/posts/using-bayesian-optimization-for-reinforcement-learning)
+* [A Simple Introduction to Complex Stochastic Processes](https://www.datasciencecentral.com/profiles/blogs/a-simple-introduction-to-complex-stochastic-processes)
 
 ## Presentations
 * [Modern Deep Learning through Bayesian Eyes (Cambridge)](http://www.cs.ox.ac.uk/people/yarin.gal/website/PDFs/2015_UCL_Bayesian_Deep_Learning_talk.pdf)
