@@ -13,7 +13,8 @@ Best math/machine learning resources
 8. [Competitions](https://github.com/krzjoa/math-ml/blob/master/competitions.md)
 9. [Neural Network Frameworks](https://github.com/krzjoa/math-ml/blob/master/nnsoft.md)
 10. [Complex values in Neural Networks](https://github.com/krzjoa/math-ml/blob/master/cmpx.md)
-11. [Quantum AI](quantum.md)
+11. [Quantum AI](https://github.com/krzjoa/math-ml/blob/master/quantum.md)
+12. [Kernel methods](https://github.com/krzjoa/math-ml/blob/master/kernel.md)
 
 ### Math
 1. [Algebra](https://github.com/krzjoa/math-ml/blob/master/algebra.md)
