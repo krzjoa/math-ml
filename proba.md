@@ -28,6 +28,7 @@ We Need Bayesian Deep Learning for Safe AI](https://alexgkendall.com/computer_vi
 
 ## Presentations
 * [Modern Deep Learning through Bayesian Eyes (Cambridge)](http://www.cs.ox.ac.uk/people/yarin.gal/website/PDFs/2015_UCL_Bayesian_Deep_Learning_talk.pdf)
+* [Hybrid	Graphical Models and	Neural	Networks](http://www.cs.cmu.edu/~epxing/Class/10708-16/slide/lecture27-GM-NN.pdf)
 
 ## Videos
 * [Machine Learning and Likelihood-Free Inference in Particle Physics](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Machine-Learning-and-Likelihood-Free-Inference-in-Particle-Physics)
