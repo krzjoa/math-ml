@@ -26,7 +26,14 @@ We Need Bayesian Deep Learning for Safe AI](https://alexgkendall.com/computer_vi
 * [MNIST FOR ML BEGINNERS: THE BAYESIAN WAY](https://alpha-i.co/blog/MNIST-for-ML-beginners-The-Bayesian-Way.html)
 * [Using Bayesian Optimization for Reinforcement Learning](https://blog.sigopt.com/posts/using-bayesian-optimization-for-reinforcement-learning)
 * [A Simple Introduction to Complex Stochastic Processes](https://www.datasciencecentral.com/profiles/blogs/a-simple-introduction-to-complex-stochastic-processes)
+
+##### Graphical models
 * [Graphical models](https://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html#lds)
+* [What is the difference between joint distribution and likelihood function?](https://www.quora.com/What-is-the-difference-between-joint-distribution-and-likelihood-function)
+* [Classical Probabilistic Models and
+Conditional Random Fields](http://www.eng.utah.edu/~cs6961/papers/klinger-crf-intro.pdf)
+* [Conditional Random Fields](http://pages.cs.wisc.edu/~jerryzhu/cs838/CRF.pdf)
+* [Conditional Random Fields - Stanford University (By Daphne Koller)](https://www.youtube.com/watch?v=rc3YDj5GiVM)
 
 ## Presentations
 * [Modern Deep Learning through Bayesian Eyes (Cambridge)](http://www.cs.ox.ac.uk/people/yarin.gal/website/PDFs/2015_UCL_Bayesian_Deep_Learning_talk.pdf)
