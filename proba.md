@@ -10,6 +10,7 @@
 * [Bayesian Deep Learning](https://github.com/robi56/awesome-bayesian-deep-learning#papers--thesis)
 * [Towards Bayesian Deep Learning:A Survey](https://arxiv.org/pdf/1604.01662.pdf)
 * [Bayesian Convolutional Neural Networks with Bernoulli Approximate Variational Inference](https://arxiv.org/abs/1506.02158)
+* [Discovering Cyclic Causal Models by Independent Components Analysis](https://arxiv.org/pdf/1206.3273.pdf)
 
 
 ## Blog posts
