@@ -34,6 +34,7 @@ We Need Bayesian Deep Learning for Safe AI](https://alexgkendall.com/computer_vi
 Conditional Random Fields](http://www.eng.utah.edu/~cs6961/papers/klinger-crf-intro.pdf)
 * [Conditional Random Fields](http://pages.cs.wisc.edu/~jerryzhu/cs838/CRF.pdf)
 * [Conditional Random Fields - Stanford University (By Daphne Koller)](https://www.youtube.com/watch?v=rc3YDj5GiVM)
+* [Conditional Random Fields: An Introduction](http://dirichlet.net/pdf/wallach04conditional.pdf)
 
 ## Presentations
 * [Modern Deep Learning through Bayesian Eyes (Cambridge)](http://www.cs.ox.ac.uk/people/yarin.gal/website/PDFs/2015_UCL_Bayesian_Deep_Learning_talk.pdf)
