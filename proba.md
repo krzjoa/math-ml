@@ -11,6 +11,8 @@
 * [Towards Bayesian Deep Learning:A Survey](https://arxiv.org/pdf/1604.01662.pdf)
 * [Bayesian Convolutional Neural Networks with Bernoulli Approximate Variational Inference](https://arxiv.org/abs/1506.02158)
 * [Discovering Cyclic Causal Models by Independent Components Analysis](https://arxiv.org/pdf/1206.3273.pdf)
+* [ON CHOOSING AND BOUNDING PROBABILITY
+METRICS](https://www.math.hmc.edu/~su/papers.dir/metrics.pdf) - 
 
 
 ## Blog posts
