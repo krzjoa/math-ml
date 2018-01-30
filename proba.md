@@ -12,7 +12,8 @@
 * [Bayesian Convolutional Neural Networks with Bernoulli Approximate Variational Inference](https://arxiv.org/abs/1506.02158)
 * [Discovering Cyclic Causal Models by Independent Components Analysis](https://arxiv.org/pdf/1206.3273.pdf)
 * [ON CHOOSING AND BOUNDING PROBABILITY
-METRICS](https://www.math.hmc.edu/~su/papers.dir/metrics.pdf) - 
+METRICS](https://www.math.hmc.edu/~su/papers.dir/metrics.pdf)
+* [Probability measures on metric spaces](https://www.math.leidenuniv.nl/~vangaans/jancol1.pdf)
 
 
 ## Blog posts
