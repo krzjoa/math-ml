@@ -29,6 +29,8 @@ We Need Bayesian Deep Learning for Safe AI](https://alexgkendall.com/computer_vi
 * [MNIST FOR ML BEGINNERS: THE BAYESIAN WAY](https://alpha-i.co/blog/MNIST-for-ML-beginners-The-Bayesian-Way.html)
 * [Using Bayesian Optimization for Reinforcement Learning](https://blog.sigopt.com/posts/using-bayesian-optimization-for-reinforcement-learning)
 * [A Simple Introduction to Complex Stochastic Processes](https://www.datasciencecentral.com/profiles/blogs/a-simple-introduction-to-complex-stochastic-processes)
+* [Bayesian Convolutional Neural Network with MCMC (using Tensorflow and Edward)](https://mk-minchul.github.io/Bayesian_Convolution_neural_network/)
+* [Building a Bayesian deep learning classifier](https://towardsdatascience.com/building-a-bayesian-deep-learning-classifier-ece1845bc09)
 
 ##### Graphical models
 * [Graphical models](https://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html#lds)
@@ -45,16 +47,6 @@ Conditional Random Fields](http://www.eng.utah.edu/~cs6961/papers/klinger-crf-in
 
 ## Videos
 * [Machine Learning and Likelihood-Free Inference in Particle Physics](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Machine-Learning-and-Likelihood-Free-Inference-in-Particle-Physics)
-
-## Software
-* [ZhuSuan - Bayesian Deep Learning](http://zhusuan.readthedocs.io/en/latest/)
-* [pomegranate - probabilistic and graphical models for Python](https://github.com/jmschrei/pomegranate)
-* [pyMC3 - Python package for Bayesian statistical modeling and Probabilistic Machine Learning](http://docs.pymc.io/)
-* [Edward - A library for probabilistic modeling, inference, and criticism.](http://edwardlib.org/)
-* [GPflow - Gaussian processes in TensorFlow](http://gpflow.readthedocs.io/en/latest/?badge=latest)
-* [GPflowOpt](http://gpflowopt.readthedocs.io/en/latest/?badge=latest)
-* [Stan](https://github.com/stan-dev/stan)
-* [gelato - Bayesian dessert for Lasagne](https://github.com/ferrine/gelato)
 
 ## Implementations
 * [Dawid and Skene](https://github.com/dallascard/dawid_skene)
