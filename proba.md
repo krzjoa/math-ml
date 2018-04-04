@@ -31,6 +31,10 @@ We Need Bayesian Deep Learning for Safe AI](https://alexgkendall.com/computer_vi
 * [A Simple Introduction to Complex Stochastic Processes](https://www.datasciencecentral.com/profiles/blogs/a-simple-introduction-to-complex-stochastic-processes)
 * [Bayesian Convolutional Neural Network with MCMC (using Tensorflow and Edward)](https://mk-minchul.github.io/Bayesian_Convolution_neural_network/)
 * [Building a Bayesian deep learning classifier](https://towardsdatascience.com/building-a-bayesian-deep-learning-classifier-ece1845bc09)
+* [EM](https://mk-minchul.github.io/EM/)
+* [Variational Inference](https://ermongroup.github.io/cs228-notes/inference/variational/)
+* [Variational Inference](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
+* [High-level VI explanation](https://www.cs.jhu.edu/~jason/tutorials/variational.html)
 
 ##### Graphical models
 * [Graphical models](https://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html#lds)
