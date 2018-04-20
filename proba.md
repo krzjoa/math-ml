@@ -35,6 +35,7 @@ We Need Bayesian Deep Learning for Safe AI](https://alexgkendall.com/computer_vi
 * [Variational Inference](https://ermongroup.github.io/cs228-notes/inference/variational/)
 * [Variational Inference](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
 * [High-level VI explanation](https://www.cs.jhu.edu/~jason/tutorials/variational.html)
+* [https://towardsdatascience.com/introduction-to-bayesian-linear-regression-e66e60791ea7]
 
 ##### Graphical models
 * [Graphical models](https://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html#lds)
