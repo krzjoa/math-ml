@@ -14,7 +14,8 @@
 * [ON CHOOSING AND BOUNDING PROBABILITY
 METRICS](https://www.math.hmc.edu/~su/papers.dir/metrics.pdf)
 * [Probability measures on metric spaces](https://www.math.leidenuniv.nl/~vangaans/jancol1.pdf)
-
+* [Expectation and Functions of Random
+Variables](https://imai.princeton.edu/teaching/files/Expectation.pdf)
 
 ## Blog posts
 * [Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
