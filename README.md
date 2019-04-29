@@ -21,3 +21,6 @@ Best math/machine learning resources
 ### Math
 1. [Algebra](https://github.com/krzjoa/math-ml/blob/master/algebra.md)
 2. [Differentiation](https://github.com/krzjoa/math-ml/blob/master/diff.md)
+
+### R
+1. [R](https://github.com/krzjoa/math-ml/blob/master/R.md)
