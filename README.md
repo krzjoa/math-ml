@@ -17,6 +17,7 @@ Best math/machine learning resources
 12. [Kernel methods](https://github.com/krzjoa/math-ml/blob/master/kernel.md)
 13. [AI Theory](https://github.com/krzjoa/math-ml/blob/master/ai.md)
 14. [Gaussian Process](https://github.com/krzjoa/math-ml/blob/master/gp.md)
+15. [Gradient Boosting](https://github.com/krzjoa/math-ml/blob/master/gb.md)
 
 ### Math
 1. [Algebra](https://github.com/krzjoa/math-ml/blob/master/algebra.md)
