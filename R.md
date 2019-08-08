@@ -20,3 +20,6 @@
 * https://www.displayr.com/formattable/
 * https://leonawicz.github.io/HtmlWidgetExamples/ex_dt_sparkline.html
 * https://holtzy.github.io/Pimp-my-rmd/
+
+## mxnet
+* https://github.com/xup6fup/MxNetR-examples
