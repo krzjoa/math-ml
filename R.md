@@ -23,3 +23,9 @@
 
 ## mxnet
 * https://github.com/xup6fup/MxNetR-examples
+
+## Libs
+* [expandFunctions](https://cran.r-project.org/web/packages/expandFunctions/index.html)
+
+## RL
+* https://dataaspirant.com/2018/02/05/reinforcement-learning-r/
