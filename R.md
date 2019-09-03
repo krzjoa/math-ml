@@ -32,3 +32,7 @@
 
 ## Imputacja Danych
 https://www.analyticsvidhya.com/blog/2016/03/tutorial-powerful-packages-imputing-missing-values/
+
+
+# Ogólnie
+http://r-statistics.co/
