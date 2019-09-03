@@ -29,3 +29,6 @@
 
 ## RL
 * https://dataaspirant.com/2018/02/05/reinforcement-learning-r/
+
+## Imputacja Danych
+https://www.analyticsvidhya.com/blog/2016/03/tutorial-powerful-packages-imputing-missing-values/
