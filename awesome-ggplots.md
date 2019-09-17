@@ -5,3 +5,5 @@
 * https://mode.com/blog/r-ggplot-extension-packages
 * http://www.storytellingwithdata.com/blog/2019/7/15/recapping-radials
 * https://fronkonstin.com/
+* http://www.datasketch.es/may/
+* https://stackoverflow.com/questions/47880918/how-to-plot-wind-direction-with-lat-lon-and-arrow-in-ggplot2
