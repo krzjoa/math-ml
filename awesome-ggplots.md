@@ -7,3 +7,4 @@
 * https://fronkonstin.com/
 * http://www.datasketch.es/may/
 * https://stackoverflow.com/questions/47880918/how-to-plot-wind-direction-with-lat-lon-and-arrow-in-ggplot2
+* https://www.statswithmatt.com/post/
