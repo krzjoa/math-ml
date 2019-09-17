@@ -4,3 +4,4 @@
 * https://www.listendata.com/2019/06/create-infographics-with-r.html
 * https://mode.com/blog/r-ggplot-extension-packages
 * http://www.storytellingwithdata.com/blog/2019/7/15/recapping-radials
+* https://fronkonstin.com/
