@@ -26,3 +26,6 @@ Best math/machine learning resources
 ### R
 1. [R](https://github.com/krzjoa/math-ml/blob/master/R.md)
 2. [awesome-ggplots](https://github.com/krzjoa/math-ml/blob/master/awesome-ggplots.md)
+
+### GAM
+* [https://github.com/mfasiolo/workshop_WARSAW19]
