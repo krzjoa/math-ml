@@ -36,3 +36,7 @@ https://www.analyticsvidhya.com/blog/2016/03/tutorial-powerful-packages-imputing
 
 # Ogólnie
 http://r-statistics.co/
+
+# R vs Python 
+* [Reddit, linear models](https://www.reddit.com/r/Python/comments/5o0ipi/python_analogue_for_rs_formula_operator/)
+
