@@ -22,3 +22,7 @@ Best math/machine learning resources
 
 ### GAM
 * [https://github.com/mfasiolo/workshop_WARSAW19]
+
+
+
+http://heather.cs.ucdavis.edu/polygrail.pdf
