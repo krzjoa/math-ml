@@ -18,7 +18,6 @@ Best math/machine learning resources
 
 ### R
 1. [R](https://github.com/krzjoa/math-ml/blob/master/R.md)
-2. [awesome-ggplots](https://github.com/krzjoa/math-ml/blob/master/awesome-ggplots.md)
 * https://github.com/dmi3kno/bunny
 * https://www.ddrive.no/post/gganimate-your-hex/
 * https://www.ddrive.no/post/making-hex-and-twittercard-with-bunny-and-magick/
@@ -28,6 +27,7 @@ Best math/machine learning resources
 * https://czxa.top/posts/40261/
 * https://github.com/dfalbel/torch
 * https://github.com/JohnCoene/globe4r
+* https://czxa.top/posts/27525/
 
 ### GAM
 * [https://github.com/mfasiolo/workshop_WARSAW19]
