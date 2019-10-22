@@ -28,6 +28,11 @@ Best math/machine learning resources
 * https://github.com/dfalbel/torch
 * https://github.com/JohnCoene/globe4r
 * https://czxa.top/posts/27525/
+* https://geocompr.robinlovelace.net/adv-map.html
+* https://cran.r-project.org/web/packages/magick/vignettes/intro.html
+* https://rpubs.com/dliupress/pedigreedemo
+* https://www.jessesadler.com/post/network-analysis-with-r/
+* https://github.com/mtennekes/tmap
 
 ### GAM
 * [https://github.com/mfasiolo/workshop_WARSAW19]
