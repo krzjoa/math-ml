@@ -19,10 +19,18 @@ Best math/machine learning resources
 ### R
 1. [R](https://github.com/krzjoa/math-ml/blob/master/R.md)
 2. [awesome-ggplots](https://github.com/krzjoa/math-ml/blob/master/awesome-ggplots.md)
+* https://github.com/dmi3kno/bunny
+* https://www.ddrive.no/post/gganimate-your-hex/
+* https://www.ddrive.no/post/making-hex-and-twittercard-with-bunny-and-magick/
+* https://yonicd.github.io/helpdesk/
+* https://simplystatistics.org/2019/08/28/you-can-replicate-almost-any-plot-with-ggplot2/
+* https://czxa.top/posts/64677/
+* https://czxa.top/posts/40261/
+* https://github.com/dfalbel/torch
+* https://github.com/JohnCoene/globe4r
 
 ### GAM
 * [https://github.com/mfasiolo/workshop_WARSAW19]
 
 
-
-http://heather.cs.ucdavis.edu/polygrail.pdf
+* http://heather.cs.ucdavis.edu/polygrail.pdf
