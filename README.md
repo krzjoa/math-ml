@@ -37,3 +37,4 @@ Best math/machine learning resources
 
 
 * http://heather.cs.ucdavis.edu/polygrail.pdf
+* https://en.wikipedia.org/wiki/Simpson%27s_paradox
