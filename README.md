@@ -23,9 +23,7 @@ Best math/machine learning resources
 * https://czxa.top/posts/40261/
 * https://github.com/dfalbel/torch
 * https://czxa.top/posts/27525/
-* https://cran.r-project.org/web/packages/magick/vignettes/intro.html
-* https://rpubs.com/dliupress/pedigreedemo
-* https://www.jessesadler.com/post/network-analysis-with-r/
+* https://github.com/JohnCoene/horizon
 
 #### Rcpp
 * https://teuder.github.io/rcpp4everyone_en/140_dataframe.html
