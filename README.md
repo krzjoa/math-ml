@@ -27,6 +27,11 @@ Best math/machine learning resources
 * https://rpubs.com/dliupress/pedigreedemo
 * https://www.jessesadler.com/post/network-analysis-with-r/
 
+#### Rcpp
+* https://teuder.github.io/rcpp4everyone_en/140_dataframe.html
+* https://csgillespie.github.io/efficientR/rcpp.html
+
+
 ### GAM
 * [https://github.com/mfasiolo/workshop_WARSAW19]
 
