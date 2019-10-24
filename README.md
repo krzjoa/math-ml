@@ -24,6 +24,7 @@ Best math/machine learning resources
 * https://github.com/dfalbel/torch
 * https://czxa.top/posts/27525/
 * https://github.com/JohnCoene/horizon
+* http://mfviz.com/r-image-art/
 
 #### Rcpp
 * https://teuder.github.io/rcpp4everyone_en/140_dataframe.html
