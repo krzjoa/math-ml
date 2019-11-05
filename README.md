@@ -34,7 +34,9 @@ Best math/machine learning resources
 
 ### GAM
 * [https://github.com/mfasiolo/workshop_WARSAW19]
-
-
 * http://heather.cs.ucdavis.edu/polygrail.pdf
 * https://en.wikipedia.org/wiki/Simpson%27s_paradox
+
+### Time series
+* https://robjhyndman.com/papers/Theta.pdf
+* https://otexts.com/fpp2/ets-forecasting.html
