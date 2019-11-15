@@ -40,3 +40,7 @@ Best math/machine learning resources
 ### Time series
 * https://robjhyndman.com/papers/Theta.pdf
 * https://otexts.com/fpp2/ets-forecasting.html
+
+## NN
+* https://github.com/tamarott/SinGAN
+
