@@ -41,6 +41,8 @@ Best math/machine learning resources
 * https://robjhyndman.com/papers/Theta.pdf
 * https://otexts.com/fpp2/ets-forecasting.html
 * [Exponential Smoothing and Innovation State Space Model (ISSM)](https://gluon.mxnet.io/chapter12_time-series/issm-scratch.html)
+* [Applied Time Series Analysis for Fisheries and Environmental Sciences](https://nwfsc-timeseries.github.io/atsa-labs/)
+* https://robjhyndman.com/eindhoven/2-3-Differencing.pdf
 
 ## NN
 * https://github.com/tamarott/SinGAN
