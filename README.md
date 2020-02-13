@@ -47,3 +47,5 @@ Best math/machine learning resources
 ## NN
 * https://github.com/tamarott/SinGAN
 
+https://www.marinedatascience.co/blog/2019/09/28/comparison-of-change-point-detection-methods/
+
