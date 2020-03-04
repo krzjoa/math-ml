@@ -46,6 +46,7 @@ Best math/machine learning resources
 
 ## NN
 * https://github.com/tamarott/SinGAN
+* https://www.marinedatascience.co/blog/2019/09/28/comparison-of-change-point-detection-methods/
 
-https://www.marinedatascience.co/blog/2019/09/28/comparison-of-change-point-detection-methods/
-
+## Feature engineering
+* https://datascience.stackexchange.com/questions/12984/list-of-feature-engineering-techniques
