@@ -1,5 +1,12 @@
 # Przydatne linki
 
+## C/CUDA
+* [Accelerate R Applications with CUDA](http://www.parallelr.com/slides/ParallelR-Accelerating%20R%20Applications%20with%20CUDA.pdf)
+* [Accelerate R Applications with CUDA](https://devblogs.nvidia.com/accelerate-r-applications-cuda/)
+* [R for Deep Learning (III): CUDA and MultiGPUs Acceleration](https://www.r-bloggers.com/r-for-deep-learning-iii-cuda-and-multigpus-acceleration/)
+* [Replacing Slow R Code with CUDA](https://sites.psu.edu/ensley/2016/09/replacing-slow-r-code-with-cuda/)
+* [R High Performance Programming](https://books.google.de/books?id=l-BxBgAAQBAJ&pg=PA67&lpg=PA67&dq=cuda+with+R&source=bl&ots=4nT_0jL5vy&sig=ACfU3U3AyMoN4VFI4a2dVrLzcM-zLHnQeg&hl=pl&sa=X&ved=2ahUKEwjEzbiRsYDoAhVKi1wKHQfGCuw4FBDoATAEegQIChAB#v=onepage&q=cuda%20with%20R&f=false)
+
 ## Time series
 * Time-Dependent Representation for Neural Event Sequence Prediction
   https://arxiv.org/pdf/1708.00065.pdf
