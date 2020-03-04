@@ -6,6 +6,9 @@
 * [R for Deep Learning (III): CUDA and MultiGPUs Acceleration](https://www.r-bloggers.com/r-for-deep-learning-iii-cuda-and-multigpus-acceleration/)
 * [Replacing Slow R Code with CUDA](https://sites.psu.edu/ensley/2016/09/replacing-slow-r-code-with-cuda/)
 * [R High Performance Programming](https://books.google.de/books?id=l-BxBgAAQBAJ&pg=PA67&lpg=PA67&dq=cuda+with+R&source=bl&ots=4nT_0jL5vy&sig=ACfU3U3AyMoN4VFI4a2dVrLzcM-zLHnQeg&hl=pl&sa=X&ved=2ahUKEwjEzbiRsYDoAhVKi1wKHQfGCuw4FBDoATAEegQIChAB#v=onepage&q=cuda%20with%20R&f=false)
+* [R Internals](https://cran.r-project.org/doc/manuals/r-release/R-ints.html)
+* [Writing R Extensions](https://cran.r-project.org/doc/manuals/R-exts.html)
+* https://github.com/hadley/r-internals
 
 ## Time series
 * Time-Dependent Representation for Neural Event Sequence Prediction
