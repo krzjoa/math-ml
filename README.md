@@ -1,6 +1,10 @@
 # math-ml
 Best math/machine learning resources
 
+## R extensions
+
+* https://cran.r-project.org/doc/manuals/R-exts.html#External-pointers-and-weak-references
+* https://r.789695.n4.nabble.com/destructor-for-S4-class-objects-in-analogy-to-C-td924524.html
 
 ### Data science
 1. [Probabilistic/Bayesian techniques](https://github.com/krzjoa/math-ml/blob/master/proba.md) 
