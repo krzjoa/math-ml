@@ -54,3 +54,7 @@ Best math/machine learning resources
 
 ## Feature engineering
 * https://datascience.stackexchange.com/questions/12984/list-of-feature-engineering-techniques
+
+
+## Deployment
+* https://www.r-bloggers.com/2021/10/crash-course-in-r-model-deployment-with-docker-and-friends/
