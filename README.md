@@ -58,3 +58,6 @@ Best math/machine learning resources
 
 ## Deployment
 * https://www.r-bloggers.com/2021/10/crash-course-in-r-model-deployment-with-docker-and-friends/
+
+## Models
+* https://m-clark.github.io/models-by-example/
