@@ -47,6 +47,7 @@ Best math/machine learning resources
 * [Exponential Smoothing and Innovation State Space Model (ISSM)](https://gluon.mxnet.io/chapter12_time-series/issm-scratch.html)
 * [Applied Time Series Analysis for Fisheries and Environmental Sciences](https://nwfsc-timeseries.github.io/atsa-labs/)
 * https://robjhyndman.com/eindhoven/2-3-Differencing.pdf
+* https://www.blurb.com/books/8517792-the-quantitative-supply-chain
 
 ## NN
 * https://github.com/tamarott/SinGAN
