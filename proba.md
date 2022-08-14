@@ -1,5 +1,7 @@
-### Courses
+### Lokad
+* [PROBABILISTIC FORECASTING (SUPPLY CHAIN)](https://www.lokad.com/probabilistic-forecasting-definition)
 
+### Courses
 * [Probability Theory and Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/)
 
 ### Tutorilas
