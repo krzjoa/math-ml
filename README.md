@@ -1,11 +1,6 @@
 # math-ml
 Best math/machine learning resources
 
-## R extensions
-
-* https://cran.r-project.org/doc/manuals/R-exts.html#External-pointers-and-weak-references
-* https://r.789695.n4.nabble.com/destructor-for-S4-class-objects-in-analogy-to-C-td924524.html
-
 ### Data science
 1. [Probabilistic/Bayesian techniques](https://github.com/krzjoa/math-ml/blob/master/proba.md) 
 3. [Convolutional neural networks](https://github.com/krzjoa/math-ml/blob/master/cnn.md)
@@ -31,6 +26,11 @@ Best math/machine learning resources
 * http://mfviz.com/r-image-art/
 * https://czxa.top/posts/61998/ <<<<<<
 
+#### R extensions
+
+* https://cran.r-project.org/doc/manuals/R-exts.html#External-pointers-and-weak-references
+* https://r.789695.n4.nabble.com/destructor-for-S4-class-objects-in-analogy-to-C-td924524.html
+
 #### Rcpp
 * https://teuder.github.io/rcpp4everyone_en/140_dataframe.html
 * https://csgillespie.github.io/efficientR/rcpp.html
@@ -55,7 +55,6 @@ Best math/machine learning resources
 
 ## Feature engineering
 * https://datascience.stackexchange.com/questions/12984/list-of-feature-engineering-techniques
-
 
 ## Deployment
 * https://www.r-bloggers.com/2021/10/crash-course-in-r-model-deployment-with-docker-and-friends/
