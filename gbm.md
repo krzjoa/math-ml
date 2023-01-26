@@ -5,3 +5,4 @@
 * [Focal loss implementation for LightGBM](https://maxhalford.github.io/blog/lightgbm-focal-loss/)
 * [Gradient Boosting for probability distributions](https://towardsdatascience.com/gradient-boosting-for-probability-distributions-6848a049d8a2)
 * [Gradient Boosting Machines for multi-target regression](https://forum.numer.ai/t/gradient-boosting-machines-for-multi-target-regression/4417/1)
+* [When to Choose CatBoost Over XGBoost or LightGBM [Practical Guide]](https://neptune.ai/blog/when-to-choose-catboost-over-xgboost-or-lightgbm)
